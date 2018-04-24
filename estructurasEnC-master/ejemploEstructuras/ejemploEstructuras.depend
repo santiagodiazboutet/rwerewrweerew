@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524260828 source:c:\test\villegas\estructurasenc\ejemploestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524544643 source:c:\users\s\desktop\estructurasenc-master\ejemploestructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
